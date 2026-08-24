@@ -1,0 +1,15 @@
+# Archivos y carpetas temporales / sistema
+.DS_Store
+Thumbs.db
+node_modules/
+.agents/
+*.log
+
+# Archivos de scratch / dumps de extracción
+catalog_summary.txt
+plan_summary.txt
+products_list.txt
+verify_assets.py
+
+# Archivos pesados originales de referencia (opcional mantener fuera del repositorio web)
+*.pdf
